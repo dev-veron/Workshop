@@ -1,0 +1,14 @@
+div {text-align: center;}
+body {
+    background-color: rgb(61, 161, 144);
+}
+
+div p {
+    color: rgb(0, 0, 0);
+}
+img {
+    border-radius: 50%;
+  }
+button{
+    background-color: yellow;
+}
